@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 20 Jan 2025 08:31:48 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['After 471 days, Emily is finally home': British-Israeli hostage reunited with mother after release]]></title>
+            <description><![CDATA[Emily Damari has been named by Hamas as being among the first hostages it plans to release.]]></description>
+            <link>https://www.bbc.com/news/articles/c93qknd2054o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93qknd2054o#0</guid>
+            <pubDate>Sun, 19 Jan 2025 19:47:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d76/live/c336bcb0-d68a-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump looks to remake America with sweeping second act]]></title>
+            <description><![CDATA[Donald Trump has promised seismic change - from inauguration day, he will be judged by his actions, writes Sarah Smith.]]></description>
+            <link>https://www.bbc.com/news/articles/c74mmj7p0keo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74mmj7p0keo#0</guid>
+            <pubDate>Mon, 20 Jan 2025 00:41:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d235/live/4f5767a0-d521-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Working from home not proper work, says ex-Asda boss]]></title>
+            <description><![CDATA[Lord Rose says it harms productivity but expert says hybrid work can be as good as full-time in the office.]]></description>
+            <link>https://www.bbc.com/news/articles/c0qww8xdvnwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qww8xdvnwo#0</guid>
+            <pubDate>Mon, 20 Jan 2025 05:55:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf95/live/8ab13a00-d4be-11ef-9fd6-0be88a764111.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cervical screening knowledge gap is costing lives, claims cancer charity]]></title>
+            <description><![CDATA[Women can ask for adjustments and this may encourage some people to get tested, the Eve Appeal says.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg44pr28ywo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg44pr28ywo#0</guid>
+            <pubDate>Mon, 20 Jan 2025 00:27:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9641/live/cdf1f8b0-d6b0-11ef-b7fd-351bf0d49c9d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I got £955 from a Child Trust Fund I didn't know I had']]></title>
+            <description><![CDATA[Latonya Skye-Paterson discovers she is one of thousands of people with money to claim on turning 18.]]></description>
+            <link>https://www.bbc.com/news/articles/cjr82gejlxno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr82gejlxno#0</guid>
+            <pubDate>Mon, 20 Jan 2025 08:00:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29bd/live/a1f8f430-d6fa-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chappell Roan: 'I'd be more successful if I wore a muzzle']]></title>
+            <description><![CDATA[The star talks about the impact of fame and the pressure to conform in an exclusive BBC interview.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyd0n5klrgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyd0n5klrgo#0</guid>
+            <pubDate>Mon, 20 Jan 2025 00:37:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7d4/live/83dd0000-ccf4-11ef-9fd6-0be88a764111.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mother's heartbreak that daughter may not live past teens due to disease]]></title>
+            <description><![CDATA[Anna Roberts, 11, is one of just 39 people in the UK with the CLN3 strain of Batten Disease.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ydg0w7z3zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydg0w7z3zo#0</guid>
+            <pubDate>Mon, 20 Jan 2025 06:04:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d0/live/d2ea2430-d34c-11ef-87df-d575b9a434a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China executes man for car rampage that killed dozens]]></title>
+            <description><![CDATA[
+A second man, who killed eight people and wounded 17 others in a stabbing spree, was also executed.]]></description>
+            <link>https://www.bbc.com/news/articles/c70kz32l98do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70kz32l98do#0</guid>
+            <pubDate>Mon, 20 Jan 2025 07:56:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a095/live/c9a306c0-d6f9-11ef-8342-173341c0b677.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corbyn and McDonnell face police interview after pro-Palestinian rally]]></title>
+            <description><![CDATA[The former Labour leader and former shadow chancellor will voluntarily attend a police station.]]></description>
+            <link>https://www.bbc.com/news/articles/clykrvp1g83o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clykrvp1g83o#0</guid>
+            <pubDate>Sun, 19 Jan 2025 17:47:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bcd/live/cf2658a0-d671-11ef-a04a-39754764cc51.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A new Traitors series and Jade opens up about Harry Styles date: This week's big releases]]></title>
+            <description><![CDATA[We've rounded up all the key culture releases for the week ahead, from film to music.]]></description>
+            <link>https://www.bbc.com/news/articles/c05lpl1lr0mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05lpl1lr0mo#0</guid>
+            <pubDate>Sun, 19 Jan 2025 21:11:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68c4/live/e9598690-d516-11ef-9fd6-0be88a764111.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I want to fulfil my dead brother's dream' - rebuilding life in Gaza's ruins]]></title>
+            <description><![CDATA[The BBC's Fergal Keane has been speaking to people in Gaza whose lives have been devastated by the war.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g7plw7w0yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g7plw7w0yo#1</guid>
+            <pubDate>Mon, 20 Jan 2025 06:02:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3338/live/af8d4900-d6ed-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hugs and tears: How Israeli hostage return unfolded]]></title>
+            <description><![CDATA[Three freed hostages are returned to Israel after a ceasefire between Israel and Hamas came into force.]]></description>
+            <link>https://www.bbc.com/news/videos/ckgn8pejzrwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckgn8pejzrwo#1</guid>
+            <pubDate>Sun, 19 Jan 2025 21:24:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e9/live/18f72480-d6fb-11ef-9fd6-0be88a764111.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joy fades as Gazans return to destroyed homes]]></title>
+            <description><![CDATA[After the ceasefire came into force Gaza residents celebrated, but many of those returning are facing devastation.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8ym4gxnx0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8ym4gxnx0o#1</guid>
+            <pubDate>Sun, 19 Jan 2025 18:51:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f939/live/07e7a230-d685-11ef-ada9-75448eb5ac6b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who are the three Israeli hostages released by Hamas?]]></title>
+            <description><![CDATA[Romi Gonen, Doron Steinbrecher and Emily Damari have been freed 471 days after being taken hostage.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5ydgeqrvqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5ydgeqrvqo#1</guid>
+            <pubDate>Sun, 19 Jan 2025 19:15:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a98c/live/ef86d9e0-d698-11ef-9fd6-0be88a764111.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Here's what to know about Donald Trump's inauguration]]></title>
+            <description><![CDATA[Donald Trump will be sworn in on Monday during a series of events that will kick off his presidency.]]></description>
+            <link>https://www.bbc.com/news/articles/c2kxzpwqq25o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kxzpwqq25o#2</guid>
+            <pubDate>Fri, 17 Jan 2025 19:52:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b51e/live/4a6bd0f0-d1cf-11ef-9fd6-0be88a764111.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What Trump plans on day one back in the White House]]></title>
+            <description><![CDATA[The incoming president has said he will "make heads spin" with a blitz of as many as 100 executive orders on the day of his inauguration.]]></description>
+            <link>https://www.bbc.com/news/articles/ced961egp65o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ced961egp65o#2</guid>
+            <pubDate>Mon, 20 Jan 2025 01:34:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6b/live/b0d1b700-d518-11ef-94cb-5f844ceb9e30.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Gaza hostages out' and 'world readies' for Trump]]></title>
+            <description><![CDATA[The release of three hostages from Gaza as a ceasefire deal between Israel and Hamas came into force yesterday dominates Monday's front pages.]]></description>
+            <link>https://www.bbc.com/news/articles/cn7gvnjj04yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7gvnjj04yo#2</guid>
+            <pubDate>Mon, 20 Jan 2025 05:27:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b126/live/9b2e6ea0-d6b9-11ef-9fd6-0be88a764111.png"/>
+        </item>
+        <item>
+            <title><![CDATA[UK's hierarchy of accents: 'I thought mine made me sound stupid']]></title>
+            <description><![CDATA[Sociolinguists say accent bias is prevalent in the UK and affects how people are perceived by classmates, colleagues and friends.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyjdyj729ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyjdyj729ro#2</guid>
+            <pubDate>Mon, 20 Jan 2025 00:41:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f82/live/42d136c0-d597-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine missed chances to stop Tinder predator]]></title>
+            <description><![CDATA[Women who tried to report Christopher Harkins said they felt "dismissed" when they approached Police Scotland.]]></description>
+            <link>https://www.bbc.com/news/articles/cm21n5m9eero</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm21n5m9eero#2</guid>
+            <pubDate>Mon, 20 Jan 2025 06:12:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef80/live/cbf83740-d67e-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brexit fishing row heads for trade court showdown]]></title>
+            <description><![CDATA[The UK has banned European vessels from catching the silvery fish species in its North Sea waters but the EU is challenging the move.
+]]></description>
+            <link>https://www.bbc.com/news/articles/ce323q4kej1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce323q4kej1o#3</guid>
+            <pubDate>Mon, 20 Jan 2025 00:46:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b80/live/39f957e0-d1db-11ef-858a-3ffeee956fe5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Abuse report care pupils felt like 'troublemakers']]></title>
+            <description><![CDATA[Allegations of abuse by former pupils at Wings School in Cumbria "almost double" in a month.]]></description>
+            <link>https://www.bbc.com/news/articles/cwypwdgwjd3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwypwdgwjd3o#3</guid>
+            <pubDate>Mon, 20 Jan 2025 00:44:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0339/live/daf38620-d4b0-11ef-b3ef-0fe2bdd6d1bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police investigate reported stalking of Gladiators star]]></title>
+            <description><![CDATA[The star, real name Alex Gray, 33, was reportedly targeted by a female stalker on set and at home.]]></description>
+            <link>https://www.bbc.com/news/articles/c23n4r1lv7ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c23n4r1lv7ko#3</guid>
+            <pubDate>Sun, 19 Jan 2025 12:43:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/7b333fb0-d662-11ef-99cf-d795b1ae2a6a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-UK relations will flourish under incoming president, says Starmer]]></title>
+            <description><![CDATA[Sir Keir Starmer sends his congratulations to Donald Trump ahead of the US presidential inauguration.]]></description>
+            <link>https://www.bbc.com/news/articles/c391vezrzxyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c391vezrzxyo#3</guid>
+            <pubDate>Sun, 19 Jan 2025 22:31:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f746/live/73f49550-d702-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shein backlash divides shoppers: 'Everywhere else is too expensive']]></title>
+            <description><![CDATA[Some young shoppers will continue to buy from the fast fashion giant despite concerns over how workers are treated.]]></description>
+            <link>https://www.bbc.com/news/articles/cy5k3v6x6vxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5k3v6x6vxo#3</guid>
+            <pubDate>Sun, 19 Jan 2025 01:07:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4afe/live/d1d52520-d425-11ef-943c-b5e53c85fbbb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Funeral home inquiry: Police pass file to CPS]]></title>
+            <description><![CDATA[Humberside Police says it conducted a "meticulous" investigation following the discovery of 35 bodies.]]></description>
+            <link>https://www.bbc.com/news/articles/cqlddzvqwv6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlddzvqwv6o#3</guid>
+            <pubDate>Mon, 20 Jan 2025 00:47:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/798d/live/9710b680-d4ec-11ef-9ebc-89cc26d89c1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Games Workshop and the big ambition of a miniatures business]]></title>
+            <description><![CDATA[The tabletop gaming company is a huge success story - but could it get even bigger?]]></description>
+            <link>https://www.bbc.com/news/articles/cr5369029dzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5369029dzo#3</guid>
+            <pubDate>Sun, 19 Jan 2025 01:14:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e11/live/fb104130-d593-11ef-a539-11b54b0e7ff3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Dealing With Donald Trump]]></title>
+            <description><![CDATA[World leaders prepare for the next president ahead of his inauguration]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kklg28</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kklg28#6</guid>
+            <pubDate>Sat, 18 Jan 2025 17:43:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0kc65rx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump promises "historic" first day in power]]></title>
+            <description><![CDATA[He will be sworn in as the 47th president today]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kkt1db</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kkt1db#6</guid>
+            <pubDate>Mon, 20 Jan 2025 07:15:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian broadcaster apologises to Djokovic ]]></title>
+            <description><![CDATA[An Australian broadcaster apologises to Novak Djokovic for comments he made on TV that the Serb considered "insulting and offensive".]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c3d5k95ke5lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c3d5k95ke5lo#8</guid>
+            <pubDate>Mon, 20 Jan 2025 06:46:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff3/live/af4c8af0-d6f7-11ef-9732-d1d7ef252ae6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Life in the old dog yet' - Murphy wins second Masters title]]></title>
+            <description><![CDATA[Shaun Murphy holds off a stirring fightback by world champion Kyren Wilson to clinch his second Masters title with a 10-7 victory at Alexandra Palace.]]></description>
+            <link>https://www.bbc.com/sport/snooker/articles/cp8kl40r8jyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/snooker/articles/cp8kl40r8jyo#8</guid>
+            <pubDate>Sun, 19 Jan 2025 23:18:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8615/live/1aebd820-d6c5-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Hyrox became the latest sporting craze]]></title>
+            <description><![CDATA[The sport of Hyrox is not known to many in the general public, yet is popular enough that UK events have had to introduce ticket lotteries. What does this new craze involve?]]></description>
+            <link>https://www.bbc.com/sport/articles/cwypd0j9wygo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cwypd0j9wygo#8</guid>
+            <pubDate>Mon, 20 Jan 2025 07:19:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcb9/live/dc415f20-ccea-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+    </channel>
+</rss>
